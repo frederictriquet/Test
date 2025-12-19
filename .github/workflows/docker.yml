@@ -23,7 +23,7 @@ jobs:
     timeout-minutes: 20
 
     permissions:
-      contents: read
+      contents: write
       packages: write
       id-token: write
 
